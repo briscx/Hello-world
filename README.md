@@ -8,3 +8,4 @@ commit
 push
 pull
 Ciao
+domani nuova lezione
