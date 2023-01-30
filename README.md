@@ -9,3 +9,4 @@ push
 pull
 Ciao
 domani nuova lezione
+ottimo! a che punto sei arrivato?
