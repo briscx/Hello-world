@@ -20,3 +20,4 @@ ottimo! a che punto sei arrivato?
 prima di iniziare a leggere volevo riprovare
 ho iniziato a studiare
 faccio una pausa
+saluti
